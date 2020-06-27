@@ -1,0 +1,6 @@
+[submodule "nanogui"]
+	path = nanogui
+	url = https://github.com/wjakob/nanogui
+[submodule "rtmidi"]
+	path = rtmidi
+	url = https://github.com/thestk/rtmidi
