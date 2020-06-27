@@ -1,3 +1,3 @@
-# nanogui-boilerplate
+# DSI Tetra Controller
 
-This is a simple boilerplate project for setting up a C++ application that uses nanogui, with CMake. To use it, simply clone this repo and build the example in `main.cpp` (taken from the nanogui docs) by running `cmake .` and then `make`.
+This is a piece of software written in C++ that allows DSI Tetra users to control their synth. For now, it only works in CC midi mode (so set your Tetra's MIDI setting to CC instead of NRPN) and has only a couple of controls. In the future, this will be able to use NRPN and will allow you to control the entirity of your Tetra synth. If you'd like to contribute, that would be amazing!
